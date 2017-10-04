@@ -1,7 +1,16 @@
 img {
     width: 200px;
 }
-body {
+h1 {
+    text-align: center;
+    font-family: fantasy;
+    color: #1AC336;
+}
+p {
     text-align: center;
     font-family: "Arial";
+    color: #0;
+}
+body {
+    text-align: center
 }
