@@ -4,13 +4,22 @@ img {
 h1 {
     text-align: center;
     font-family: fantasy;
-    color: #1AC336;
+    color: #fff;
 }
 p {
     text-align: center;
     font-family: "Arial";
-    color: #0;
+    color: #fff;
+    font-size: x-large;
+}
+p2 {
+    text-align: center;
+    font-family: fantasy;
+    color: #fff;
+    font-size: x-large;
+    text-decoration: blink;
 }
 body {
-    text-align: center
+    text-align: center;
+    background-image: url("http://festival-collection.com/wp-content/uploads/10/Spooky-Halloween-Background-Tumblr-(20).jpg");
 }
