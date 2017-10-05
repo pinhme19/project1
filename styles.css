@@ -5,13 +5,14 @@ h1 {
     text-align: center;
     font-family: fantasy;
     color: #fff;
+    text-shadow: 2px 2px #000;
 }
 p {
     text-align: center;
     font-family: "Arial";
-    color: #00000;
+    color: #fff;
     font-size: x-large;
-    background-color: #fff;
+    text-shadow: 2px 2px #000
 }
 p2 {
     text-align: center;
@@ -19,7 +20,7 @@ p2 {
     color: #ffa500;
     font-size: x-large;
     text-decoration: underline;
-    background-color: #fff;
+    text-shadow: 2px 2px #000;
 }
 body {
     text-align: center;
