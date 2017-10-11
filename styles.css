@@ -25,3 +25,8 @@ body {
     text-align: center;
     background-image: url("http://festival-collection.com/wp-content/uploads/10/Spooky-Halloween-Background-Tumblr-(20).jpg");
 }
+h4 {
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px #000
+}
